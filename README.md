@@ -40,6 +40,7 @@ Hi there! I'm **Taha Ayati**, a passionate developer with expertise in **C#** an
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </div>
 
 ---
@@ -64,4 +65,4 @@ Feel free to connect with me on:
 
 <div align="center">
   <h3>🚀 Thanks for stopping by! Happy coding! 🚀</h3>
-</div>
+</div> 
