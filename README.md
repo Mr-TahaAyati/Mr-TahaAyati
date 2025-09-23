@@ -6,17 +6,18 @@
 ---
 
 ## 👨‍💻 About Me  
-Hi there! I'm **Taha Ayati**, a passionate developer with expertise in **C#** and a deep interest in **backend development**. I love solving problems, building innovative solutions, and learning new technologies.  
+Hi there! I'm **Taha Ayati**, a **backend developer** with **1 year of experience in ASP.NET** and a strong interest in programming.  
+Right now I'm working with the **Laravel framework**, learning and building scalable backend solutions.
 
 - 🔥 **Core Skills**:  
-  Backend Development, Clean Code, and Scalable Systems.
+  Backend Development, Clean Code, Scalable Systems.
 
 - 🚀 **Currently Exploring**:  
-  Expanding knowledge in **Node.js**, **ASP.NET Core**, and databases like **PostgreSQL** and **MongoDB**.
+  Deepening knowledge in **Laravel**, **ASP.NET Core**, and databases like **PostgreSQL** and **MongoDB**.
 
 - 💼 **Looking to Collaborate On**: Backend projects, APIs, and scalable architectures.
 
-- 🌟 **Fun Fact**: When I'm not coding, I enjoy gaming and exploring the latest tech trends!  
+- 🌟 **Fun Fact**: When I'm not coding, I enjoy gaming and exploring the latest tech trends!
 
 ---
 
@@ -27,10 +28,12 @@ Hi there! I'm **Taha Ayati**, a passionate developer with expertise in **C#** an
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" />
 </div>
 
 <div align="center">
   <h3>Frameworks & Libraries</h3>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
 </div>
@@ -65,4 +68,4 @@ Feel free to connect with me on:
 
 <div align="center">
   <h3>🚀 Thanks for stopping by! Happy coding! 🚀</h3>
-</div> 
+</div>
