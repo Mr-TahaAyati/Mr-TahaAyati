@@ -6,22 +6,24 @@
 ---
 
 ## 👨‍💻 About Me  
-Hi there! I'm **Taha Ayati**, a **backend developer** with **1 year of experience in ASP.NET** and a strong interest in programming.  
-Right now I'm working with the **Laravel framework**, learning and building scalable backend solutions.
+Hi there! I'm **Taha Ayati**, a **backend developer** with **1 year of experience in ASP.NET**.  
+Currently, I'm working with the **Laravel framework**, building scalable backend solutions and improving my skills in modern PHP development.
 
 - 🔥 **Core Skills**:  
-  Backend Development, Clean Code, Scalable Systems.
+  Backend Development, Clean Code, Scalable Systems, RESTful APIs.
 
 - 🚀 **Currently Exploring**:  
-  Deepening knowledge in **Laravel**, **ASP.NET Core**, and databases like **PostgreSQL** and **MongoDB**.
+  **Laravel**, **ASP.NET Core**, **PostgreSQL**, **MongoDB**, and advanced backend architecture.
 
-- 💼 **Looking to Collaborate On**: Backend projects, APIs, and scalable architectures.
+- 💼 **Looking to Collaborate On**:  
+  Backend projects, APIs, scalable systems, and automation tools.
 
-- 🌟 **Fun Fact**: When I'm not coding, I enjoy gaming and exploring the latest tech trends!
+- 🌟 **Fun Fact**: I enjoy gaming and keeping up with the latest tech trends when I'm not coding.
 
 ---
 
 ## 🛠 Skills & Tools  
+
 <div align="center">
   <h3>Languages</h3>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" />
@@ -53,16 +55,14 @@ Right now I'm working with the **Laravel framework**, learning and building scal
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TahaAyati&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; margin-top: 10px;" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisadeghi-code&theme=dark" alt="GitHub Streak" style="max-width: 100%; margin-top: 10px;" />
 </div>
 
 ---
 
 ## 🔗 Let's Connect  
 Feel free to connect with me on:  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
