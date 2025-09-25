@@ -1,7 +1,8 @@
 <div align="center">
-  <h1 style="font-size: 3em;">✨ Welcome to My GitHub ✨</h1>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="500" style="max-width: 100%; border-radius: 15px;" />
-</div>
+
+# ✨ Welcome to My GitHub ✨
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="500" style="max-width: 100%; border-radius: 15px;" />
 
 ---
 
@@ -9,66 +10,43 @@
 Hi there! I'm **Taha Ayati**, a **backend developer** with **1 year of experience in ASP.NET**.  
 Currently, I'm working with the **Laravel framework**, building scalable backend solutions and improving my skills in modern PHP development.
 
-- 🔥 **Core Skills**:  
-  Backend Development, Clean Code, Scalable Systems, RESTful APIs.
-
-- 🚀 **Currently Exploring**:  
-  **Laravel**, **ASP.NET Core**, **PostgreSQL**, **MongoDB**, and advanced backend architecture.
-
-- 💼 **Looking to Collaborate On**:  
-  Backend projects, APIs, scalable systems, and automation tools.
-
+- 🔥 **Core Skills**: Backend Development, Clean Code, Scalable Systems, RESTful APIs.
+- 🚀 **Currently Exploring**: Laravel, ASP.NET Core, PostgreSQL, MongoDB, and advanced backend architecture.
+- 💼 **Looking to Collaborate On**: Backend projects, APIs, scalable systems, and automation tools.
 - 🌟 **Fun Fact**: I enjoy gaming and keeping up with the latest tech trends when I'm not coding.
 
 ---
 
 ## 🛠 Skills & Tools  
 
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" />
-</div>
+### Languages  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
-<div align="center">
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
-</div>
+### Frameworks & Libraries  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<div align="center">
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-</div>
+### Tools  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TahaAyati&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; margin-top: 10px;" />
-</div>
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TahaAyati&layout=compact&theme=radical)
 
 ---
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔗 Let's Connect  
-Feel free to connect with me on:  
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-<div align="center">
-  <h3>🚀 Thanks for stopping by! Happy coding! 🚀</h3>
+## 🚀 Thanks for stopping by! Happy coding! 🚀
+
 </div>
