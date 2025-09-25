@@ -58,7 +58,10 @@ Currently, I'm working with the **Laravel framework**, building scalable backend
 </div>
 
 ---
-
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 ## 🔗 Let's Connect  
 Feel free to connect with me on:  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
