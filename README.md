@@ -34,6 +34,19 @@ Currently, I'm working with the **Laravel framework**, building scalable backend
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TahaAyati&layout=compact&theme=radical)
 
+
+
+Stats📈
+
+<p align=”center”>
+
+<img width=”40%” src=”https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Ayati&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true” alt=”Mr-Ayati” />
+
+<img width=”48%” src=”https://github-readme-stats.vercel.app/api?username=Mr-Ayati&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true” alt=”Mr-Ayati” />
+
+<img width=”48%” src=”https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ayati&theme=highcontrast&hide_border=true” alt=”Mr-Ayati” />
+
+</p>
 ---
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
