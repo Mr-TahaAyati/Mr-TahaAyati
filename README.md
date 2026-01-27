@@ -7,77 +7,88 @@
 ---
 
 ## 👨‍💻 About Me  
-Hello! I'm **Taha Ayati**, a passionate **backend developer** with **1 year of experience in ASP.NET**. I love crafting scalable, efficient systems and writing clean, maintainable code. Currently, I'm diving deep into the **Laravel framework**, enhancing my expertise in modern PHP development and backend architecture.
 
-- 🔥 **Core Strengths**: Backend Development, Clean Code, Scalable Systems, RESTful APIs
-- 🚀 **Currently Exploring**: **n8n** automation workflows and **AI Agent** development
-- 💼 **Open to Collaboration**: Backend Projects, APIs, Automation Tools, Scalable Solutions
-- 🌟 **Fun Fact**: When I'm not coding, you can find me gaming or staying updated with the latest tech trends!
+Hi 👋  
+I'm **Taha Ayati**, a developer with a strong focus on **backend development, automation, and modern workflows**.  
+I enjoy building practical systems, automating repetitive tasks, and experimenting with AI-driven solutions.
+
+- 💼 **Programming Experience**:  
+  - **4 years** overall  
+  - **2 years** focused & professional  
+
+- 🔧 **Main Focus**: Backend, Automation, Web Systems  
+- 🤖 **Interests**: AI, AI Agents, Automation, and Scalable Systems  
 
 ---
 
-## 🛠 Tools I've Worked With  
+## 🧠 Skills  
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+### ✅ Core Skills
+- **n8n** (Workflow Automation)
+- **Laravel**
+- **Vibe Coding / Rapid Prototyping**
+- Working with **Kali Linux** & **Ubuntu**
+
+### 📚 Currently Learning
+- **JavaScript**
+- **Angular**
+
+### 🕰 Previous Experience (No Longer Active)
+- **C#**
+- **PHP**
+- **ASP.NET**
+
+---
+
+## 🗄 Databases
+- **SQL**
+
+---
+
+## 💻 Operating Systems
+- Kali Linux  
+- Ubuntu  
+- Windows  
+
+---
+
+## 🎯 Interests
+- Artificial Intelligence & **AI Agents**
+- Web Development
+- Mobile Development
+- Learning **English** & **Japanese**
+
+---
+
+## 🛠 Tools & Technologies  
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-## 🔍 Tools I'm Specializing In  
-
-- **PostgreSQL** and **MongoDB** for modern database management
-- **GitHub Actions** for CI/CD and automation
-- **Docker** for containerization and streamlined development environments
-
----
-
-## 💻 Programming Languages  
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-## 🧩 Frameworks I've Used  
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) 
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
----
-
-## 🚀 Frameworks & Tools I'm Currently Working With  
-
-Right now, I’m focused on **Laravel** and **n8n**, building robust backend solutions and automated workflows:
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&count_private=true&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Overview" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=dracula&hide_border=true" />
 </p>
 
 ---
+
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🔗 Connect With Me  
+## 🚀 Thanks for Visiting  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+If you’re interested in **automation, backend systems, or AI-based workflows**, feel free to explore my repositories.
 
----
-
-## 🚀 Thanks for Visiting! Keep Coding! 🚀
+Happy coding 👨‍💻🔥
 
 </div>
