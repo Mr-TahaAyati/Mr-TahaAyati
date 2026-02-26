@@ -1,94 +1,78 @@
 <div align="center">
 
-# 🌟 Welcome to My GitHub 🌟
+# Taha Ayati
+### Backend Developer | Automation Engineer | AI Workflow Builder
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
 
----
-
-## 👨‍💻 About Me  
-
-Hi 👋  
-I'm **Taha Ayati**, a developer with a strong focus on **backend development, automation, and modern workflows**.  
-I enjoy building practical systems, automating repetitive tasks, and experimenting with AI-driven solutions.
-
-- 💼 **Programming Experience**:  
-  - **4 years** overall  
-  - **2 years** focused & professional  
-
-- 🔧 **Main Focus**: Backend, Automation, Web Systems  
-- 🤖 **Interests**: AI, AI Agents, Automation, and Scalable Systems  
+</div>
 
 ---
 
-## 🧠 Skills  
+## 👋 About Me
 
-### ✅ Core Skills
-- **n8n** (Workflow Automation)
-- **Laravel**
-- **Vibe Coding / Rapid Prototyping**
-- Working with **Kali Linux** & **Ubuntu**
+I am a backend-focused developer with 4 years of programming experience, including 2 years of professional and production-level work.
 
-### 📚 Currently Learning
-- **JavaScript**
-- **Angular**
-
-### 🕰 Previous Experience (No Longer Active)
-- **C#**
-- **PHP**
-- **ASP.NET**
+My primary focus is building **automation systems, backend architectures, and AI-driven workflows** that solve real problems efficiently.  
+I prefer practical engineering over theory and scalable systems over quick hacks.
 
 ---
 
-## 🗄 Databases
-- **SQL**
+## 🔧 Core Expertise
+
+- **Backend Development (Laravel)**
+- **Workflow Automation (n8n)**
+- **System Architecture & API Design**
+- **Rapid Prototyping & MVP Development**
+- Linux-based development environments
 
 ---
 
-## 💻 Operating Systems
-- Kali Linux  
-- Ubuntu  
-- Windows  
+## 🧠 Currently Improving
+
+- JavaScript (Deep understanding, not surface-level)
+- Angular
+- Advanced AI Agent Architectures
 
 ---
 
-## 🎯 Interests
-- Artificial Intelligence & **AI Agents**
-- Web Development
-- Mobile Development
-- Learning **English** & **Japanese**
+## 🗄 Technical Stack
+
+**Languages & Frameworks**
+- Laravel
+- PHP
+- SQL
+- JavaScript (Learning in depth)
+
+**Automation**
+- n8n (Advanced workflows, API integrations, AI pipelines)
+
+**Operating Systems**
+- Ubuntu
+- Kali Linux
+- Windows
 
 ---
 
-## 🛠 Tools & Technologies  
+## 🎯 Professional Interests
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- AI Agents & Autonomous Systems
+- Backend System Optimization
+- Automation at Scale
+- Intelligent Process Design
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+## 🤝 Let’s Build Something Smart
 
----
-
-## 🚀 Thanks for Visiting  
-
-If you’re interested in **automation, backend systems, or AI-based workflows**, feel free to explore my repositories.
-
-Happy coding 👨‍💻🔥
+If you're interested in backend systems, automation, or AI-powered workflows, explore my repositories or reach out.
 
 </div>
