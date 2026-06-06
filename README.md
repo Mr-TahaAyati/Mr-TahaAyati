@@ -1,31 +1,49 @@
 <div align="center">
 
 # Taha Ayati
-### Backend Developer | AI Automation Developer | n8n Builder
+### Backend Developer | AI Automation Engineer | n8n Builder
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="380"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mr-TahaAyati&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## ⚡ About Me
 
-Backend developer focused on building real-world systems and automation solutions.
+Backend-focused developer building **real-world systems, automation pipelines, and AI-driven workflows**.
 
-Currently learning **Node.js** and **Express.js** and applying them in practical backend development.
-
-I work on automation systems, AI-based workflows, and backend services for real projects.
+Currently working with **Node.js & Express.js** while developing production-level automation systems using **n8n** and API integrations.
 
 ---
 
-## 🔧 What I Do
+## 🧠 Core Skills
 
-- Backend development with Node.js & Express (learning phase)
-- Building automation workflows with n8n
-- Developing Telegram bots and business automation systems
-- Designing AI agents and API-based integrations
-- Building real-world backend systems (booking, service platforms, etc.)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regex-Important-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 What I Do
+
+- Backend API development (Node.js / Express)
+- Automation systems with n8n
+- AI Agents & workflow design
+- Telegram bot development
+- Real-world backend systems (booking, service platforms, integrations)
 
 ---
 
@@ -36,39 +54,41 @@ I work on automation systems, AI-based workflows, and backend services for real 
 
 ---
 
-## ⚙️ Technical Skills
-
-- JavaScript (Backend focus)
-- Node.js
-- Express.js
-- npm (package management)
-- Regular Expressions (Regex)
-
----
-
 ## 🧠 Current Focus
 
-- Express.js deeper understanding
-- Backend architecture fundamentals
-- Scalable automation systems
-- Clean API design
-- JavaScript mastery for backend use
+- Deep understanding of Express.js
+- Scalable backend architecture
+- API design patterns
+- Automation & AI system design
+- Clean and maintainable JavaScript backend code
 
 ---
 
-## 🧰 Automation & AI
-
-- n8n (workflow automation)
-- AI Agents
-- API integrations
-- Telegram bot automation
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TahaAyati&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-TahaAyati&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-TahaAyati&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -76,13 +96,13 @@ I work on automation systems, AI-based workflows, and backend services for real 
 ## 🎯 Interests
 
 - Backend Engineering
-- Automation Systems
-- AI-driven workflows
-- Scalable backend architectures
-- Real-world SaaS ideas
+- AI Agents & Autonomous Systems
+- Workflow Automation
+- SaaS Backend Architecture
+- Scalable API Systems
 
 ---
 
 ## 🚀 Goal
 
-Building strong backend systems and moving toward scalable automation and AI-powered products.
+Building production-level backend systems and scaling into AI-powered automation products.
