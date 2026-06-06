@@ -1,7 +1,7 @@
 <div align="center">
 
 # Taha Ayati
-### Backend Developer | Automation Engineer | AI Workflow Builder
+### Backend Developer | AI Automation Developer | n8n Builder
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
 
@@ -11,59 +11,61 @@
 
 ## 👋 About Me
 
-I am a backend-focused developer with 4 years of programming experience, including 2 years of professional and production-level work.
+Backend developer focused on building real-world systems and automation solutions.
 
-My primary focus is building **automation systems, backend architectures, and AI-driven workflows** that solve real problems efficiently.  
-I prefer practical engineering over theory and scalable systems over quick hacks.
+Currently learning **Node.js** and **Express.js** and applying them in practical backend development.
 
----
-
-## 🔧 Core Expertise
-
-- **Backend Development (Laravel)**
-- **Workflow Automation (n8n)**
-- **System Architecture & API Design**
-- **Rapid Prototyping & MVP Development**
-- Linux-based development environments
+I work on automation systems, AI-based workflows, and backend services for real projects.
 
 ---
 
-## 🧠 Currently Improving
+## 🔧 What I Do
 
-- JavaScript (Deep understanding, not surface-level)
-- Angular
-- Advanced AI Agent Architectures
-
----
-
-## 🗄 Technical Stack
-
-**Languages & Frameworks**
-- Laravel
-- PHP
-- SQL
-- JavaScript (Learning in depth)
-
-**Automation**
-- n8n (Advanced workflows, API integrations, AI pipelines)
-
-**Operating Systems**
-- Ubuntu
-- Kali Linux
-- Windows
+- Backend development with Node.js & Express (learning phase)
+- Building automation workflows with n8n
+- Developing Telegram bots and business automation systems
+- Designing AI agents and API-based integrations
+- Building real-world backend systems (booking, service platforms, etc.)
 
 ---
 
-## 🎯 Professional Interests
+## 🗄 Databases
 
-- AI Agents & Autonomous Systems
-- Backend System Optimization
-- Automation at Scale
-- Intelligent Process Design
+- MySQL (main experience)
+- MongoDB (growing experience)
 
 ---
 
-## 📊 GitHub Analytics
+## ⚙️ Technical Skills
+
+- JavaScript (Backend focus)
+- Node.js
+- Express.js
+- npm (package management)
+- Regular Expressions (Regex)
+
+---
+
+## 🧠 Current Focus
+
+- Express.js deeper understanding
+- Backend architecture fundamentals
+- Scalable automation systems
+- Clean API design
+- JavaScript mastery for backend use
+
+---
+
+## 🧰 Automation & AI
+
+- n8n (workflow automation)
+- AI Agents
+- API integrations
+- Telegram bot automation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mr-TahaAyati&show_icons=true&theme=dark&hide_border=true" />
@@ -71,8 +73,16 @@ I prefer practical engineering over theory and scalable systems over quick hacks
 
 ---
 
-## 🤝 Let’s Build Something Smart
+## 🎯 Interests
 
-If you're interested in backend systems, automation, or AI-powered workflows, explore my repositories or reach out.
+- Backend Engineering
+- Automation Systems
+- AI-driven workflows
+- Scalable backend architectures
+- Real-world SaaS ideas
 
-</div>
+---
+
+## 🚀 Goal
+
+Building strong backend systems and moving toward scalable automation and AI-powered products.
